@@ -223,3 +223,4 @@ C:\Users\daz74\source\repos\ComicBookGallery\ComicBookGallery\bin\Debug\net8.0\r
 C:\Users\daz74\source\repos\ComicBookGallery\ComicBookGallery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\daz74\source\repos\ComicBookGallery\ComicBookGallery\obj\Debug\net8.0\ComicBookGallery.csproj.AssemblyReference.cache
 C:\Users\daz74\source\repos\ComicBookGallery\ComicBookGallery\obj\Debug\net8.0\ComicBoo.AA9B13B2.Up2Date
+C:\Users\daz74\source\repos\ComicBookGallery\ComicBookGallery\obj\Debug\net8.0\ComicBookGallery.sourcelink.json
